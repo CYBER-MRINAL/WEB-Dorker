@@ -1,4 +1,4 @@
-<h1 align="center">🌌 WEB-Dorcker</h1>
+<h1 align="center">🌌 WEB-Dorker</h1>
 <h3 align="center">Advanced Multi-Engine Dorking Framework</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Author-CYBER--MRINAL-blue?style=for-the-badge&logo=github" />
@@ -10,7 +10,7 @@
 
 ## 🌀 Introduction  
 
-**WEB-Dorcker** is not just another search script – it’s a **futuristic reconnaissance companion**.  
+**WEB-Dorker** is not just another search script – it’s a **futuristic reconnaissance companion**.  
 Crafted for **ethical cybersecurity research**, this tool empowers researchers, bug bounty hunters, and penetration testers to **uncover digital exposure** using **multi-engine dorking intelligence**.  
 
 It merges **classic hacker-style dorking** with a **professional workflow**, ensuring logs, automation, and customizable search patterns — all wrapped in a **minimal yet powerful design**.  
@@ -43,8 +43,8 @@ It merges **classic hacker-style dorking** with a **professional workflow**, ens
 
 Clone the repo:  
 ```bash
-git clone https://github.com/CYBER-MRINAL/WEB-Dorcker.git
-cd WEB-Dorcker
+git clone https://github.com/CYBER-MRINAL/WEB-Dorker.git
+cd WEB-Dorker
 ````
 
 Install requirements:
@@ -60,7 +60,7 @@ pip3 install colorama
 Run the tool:
 
 ```bash
-python3 web-dorcker.py
+python3 web-dorker.py
 ```
 
 Inside the tool:

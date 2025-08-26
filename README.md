@@ -77,6 +77,9 @@ Inside the tool:
  Choose categories:> 1,5
  Dork selection:> all
 ```
+## Snapshot of the tool
+---
+<img width="1077" height="413" alt="image" src="https://github.com/user-attachments/assets/705f6ae6-9cbd-4537-99bb-0c9d18671b88" />
 
 ---
 

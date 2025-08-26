@@ -119,6 +119,7 @@ Every session is preserved inside **`dork_logs/`** with rich formats:
 
 This project is released under the **MIT License**.
 See the [LICENSE](LICENSE) file for full details.
+- If any query regarding this tool please ask me on my [TELEGRAM](https://t.me/cybermrinalgroup)
 
 ---
 
